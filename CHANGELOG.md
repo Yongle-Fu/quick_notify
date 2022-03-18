@@ -1,6 +1,6 @@
 ## 0.2.1
 
-- Add `title` to `notify` method
+- Add `title` to `notify` method, test
 
 ## 0.2.0
 
